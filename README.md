@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, Git
 
 ## Education							       		
-- M.S., Data Science	| University At Buffalo  (_May 2024_)	 			        		
-- B.E., Computer Engineering | The University of Mumbai (_May 2022_)
+-- M.S., Data Science	| University At Buffalo  (_May 2024_)	 			        		
+-- B.E., Computer Engineering | The University of Mumbai (_May 2022_)
 
 ## Projects
 ### Stock Price Prediction Using LSTM
