@@ -27,5 +27,5 @@ Achieved impressive accuracy in predicting the company's stock price, with a rem
 
 ## Publications
 1. International Journal for Research in Applied Science and Engineering Technology: Jay Yogesh Thanki, et al., “Brain Tumor Detection Using CNN”, Volume 10 Issue X October 2022.
- https://doi.org/10.22214/ijraset.2022.47109
+ (https://doi.org/10.22214/ijraset.2022.47109)
 
