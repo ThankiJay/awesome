@@ -8,6 +8,8 @@
 
 ## Projects
 ### Stock Price Prediction Using LSTM
+[Project Report](https://drive.google.com/file/d/1F9zw2iQxF6zAD56bTwn5niXEtaRmrNDa/view?usp=sharing)
+
 
 Designed and implemented an LSTM-based machine learning model utilizing historical stock prices of 'Advanced Auto Parts' from Kaggle.
 Achieved impressive accuracy in predicting the company's stock price, with a remarkable price difference of only 0.5 dollars, demonstrating the model's effectiveness and precision.
