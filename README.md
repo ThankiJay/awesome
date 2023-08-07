@@ -13,6 +13,7 @@
 
 Designed and implemented an LSTM-based machine learning model utilizing historical stock prices of 'Advanced Auto Parts' from Kaggle.
 Achieved impressive accuracy in predicting the company's stock price, with a remarkable price difference of only 0.5 dollars, demonstrating the model's effectiveness and precision.
+
 ![Stock Price Prediction](/assets/img/stockpriceprediction.jpg)
 
 ### Brain Tumor Detection Using CNN
