@@ -24,7 +24,7 @@ Achieved impressive accuracy in predicting the company's stock price, with a rem
 -	Successfully deployed the model on Heroku and integrated it into a user-friendly website, enabling end users to effortlessly upload their MRI scans and obtain diagnostic results through a convenient drag and drop interface.
 -	Published the findings in International Journal for Research in Applied Science and Engineering Technology (IJRASET).
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/braintumordetection.jpg)
 
 
 ## Publications
