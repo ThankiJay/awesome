@@ -7,6 +7,13 @@
 - B.E., Computer Engineering, The University of Mumbai (_May 2022_)
 
 ## Projects
+### Product Sentiment Analysis
+[Project Report](https://drive.google.com/file/d/1F9zw2iQxF6zAD56bTwn5niXEtaRmrNDa/view?usp=sharing)
+
+Designed and implemented an LSTM-based machine learning model utilizing historical stock prices of 'Advanced Auto Parts' from Kaggle.
+Achieved impressive accuracy in predicting the company's stock price, with a remarkable price difference of only 0.5 dollars, demonstrating the model's effectiveness and precision.
+
+![Stock Price Prediction](assets/img/Employee-performance-cover-2.png)
 ### Employee Performance and Attrition Modelling
 [Project Report](https://drive.google.com/file/d/1F9zw2iQxF6zAD56bTwn5niXEtaRmrNDa/view?usp=sharing)
 
