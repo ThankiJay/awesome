@@ -2,9 +2,13 @@
 
 #### Technical Skills: Python, SQL, Tableau, Git, ETL, CI/CD, AWS, Hadoop, Docker, Flask, Spark 
 
+---
+
 ## Education							       		
 - M.S., Data Science, University At Buffalo  (_May 2024_)	 			        		
 - B.E., Computer Engineering, The University of Mumbai (_May 2022_)
+
+---
 
 ## Projects
 
