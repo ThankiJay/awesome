@@ -12,8 +12,6 @@
 
 ## Projects
 
----
-
 ### Product Sentiment Analysis
 [Project Report](https://drive.google.com/file/d/1F9zw2iQxF6zAD56bTwn5niXEtaRmrNDa/view?usp=sharing)
 
