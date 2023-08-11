@@ -3,3 +3,5 @@ logo: /assets/img/headshot_circle.png
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Science Enthusiast with a background in Computer Science Engineering and a master's degree in Data Science from University at Buffalo.
 theme: jekyll-theme-minimal
+colors:
+  crimson: '#900C3F'
