@@ -20,6 +20,10 @@ Achieved impressive accuracy in predicting the company's stock price, with a rem
 
 ![Stock Price Prediction](assets/img/sentiment.jpg)
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+
 ---
 
 ### Credit Fraud Detection
@@ -30,6 +34,10 @@ Achieved impressive accuracy in predicting the company's stock price, with a rem
 
 ![Stock Price Prediction](assets/img/creditcardfraud.png)
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+
 ---
 
 ### Employee Performance and Attrition Modelling
@@ -39,6 +47,10 @@ Designed and implemented an LSTM-based machine learning model utilizing historic
 Achieved impressive accuracy in predicting the company's stock price, with a remarkable price difference of only 0.5 dollars, demonstrating the model's effectiveness and precision.
 
 ![Stock Price Prediction](assets/img/Employee-performance-cover-2.png)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
 ---
 
@@ -51,6 +63,10 @@ Achieved impressive accuracy in predicting the company's stock price, with a rem
 
 ![Stock Price Prediction](assets/img/CustomerSegmentation.jpg)
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+
 ---
 
 ### Predicting Customer Purchase Propensity
@@ -61,6 +77,10 @@ Designed and implemented an LSTM-based machine learning model utilizing historic
 Achieved impressive accuracy in predicting the company's stock price, with a remarkable price difference of only 0.5 dollars, demonstrating the model's effectiveness and precision.
 
 ![Stock Price Prediction](assets/img/customerpropensity.png)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
 ---
 
@@ -73,6 +93,10 @@ Achieved impressive accuracy in predicting the company's stock price, with a rem
 
 ![Stock Price Prediction](/assets/img/stockpriceprediction.jpg)
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+
 ---
 
 ### Brain Tumor Detection Using CNN
@@ -84,6 +108,10 @@ Achieved impressive accuracy in predicting the company's stock price, with a rem
 -	Published the findings in International Journal for Research in Applied Science and Engineering Technology (IJRASET).
 
 ![Bike Study](/assets/img/braintumordetection.jpg)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
 ---
 
