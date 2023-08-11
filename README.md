@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Git
+#### Technical Skills: Python, SQL, Git, Tableau, ETL, CI/CD, AWS, Hadoop, Docker, Flask 
 
 ## Education							       		
 - M.S., Data Science, University At Buffalo  (_May 2024_)	 			        		
