@@ -7,6 +7,9 @@
 - B.E., Computer Engineering, The University of Mumbai (_May 2022_)
 
 ## Projects
+
+---
+
 ### Product Sentiment Analysis
 [Project Report](https://drive.google.com/file/d/1F9zw2iQxF6zAD56bTwn5niXEtaRmrNDa/view?usp=sharing)
 
@@ -15,6 +18,8 @@ Achieved impressive accuracy in predicting the company's stock price, with a rem
 
 ![Stock Price Prediction](assets/img/sentiment.jpg)
 
+---
+
 ### Credit Fraud Detection
 [Project Report](https://drive.google.com/file/d/1F9zw2iQxF6zAD56bTwn5niXEtaRmrNDa/view?usp=sharing)
 
@@ -22,6 +27,9 @@ Designed and implemented an LSTM-based machine learning model utilizing historic
 Achieved impressive accuracy in predicting the company's stock price, with a remarkable price difference of only 0.5 dollars, demonstrating the model's effectiveness and precision.
 
 ![Stock Price Prediction](assets/img/creditcardfraud.png)
+
+---
+
 ### Employee Performance and Attrition Modelling
 [Project Report](https://drive.google.com/file/d/1F9zw2iQxF6zAD56bTwn5niXEtaRmrNDa/view?usp=sharing)
 
@@ -29,6 +37,8 @@ Designed and implemented an LSTM-based machine learning model utilizing historic
 Achieved impressive accuracy in predicting the company's stock price, with a remarkable price difference of only 0.5 dollars, demonstrating the model's effectiveness and precision.
 
 ![Stock Price Prediction](assets/img/Employee-performance-cover-2.png)
+
+---
 
 ### Customer Segmentation Analysis
 [Project Report](https://drive.google.com/file/d/1F9zw2iQxF6zAD56bTwn5niXEtaRmrNDa/view?usp=sharing)
@@ -39,6 +49,8 @@ Achieved impressive accuracy in predicting the company's stock price, with a rem
 
 ![Stock Price Prediction](assets/img/CustomerSegmentation.jpg)
 
+---
+
 ### Predicting Customer Purchase Propensity
 [Project Report](https://drive.google.com/file/d/1F9zw2iQxF6zAD56bTwn5niXEtaRmrNDa/view?usp=sharing)
 
@@ -48,6 +60,8 @@ Achieved impressive accuracy in predicting the company's stock price, with a rem
 
 ![Stock Price Prediction](assets/img/customerpropensity.png)
 
+---
+
 ### Stock Price Prediction Using LSTM
 [Project Report](https://drive.google.com/file/d/1F9zw2iQxF6zAD56bTwn5niXEtaRmrNDa/view?usp=sharing)
 
@@ -56,6 +70,8 @@ Designed and implemented an LSTM-based machine learning model utilizing historic
 Achieved impressive accuracy in predicting the company's stock price, with a remarkable price difference of only 0.5 dollars, demonstrating the model's effectiveness and precision.
 
 ![Stock Price Prediction](/assets/img/stockpriceprediction.jpg)
+
+---
 
 ### Brain Tumor Detection Using CNN
 [Publication](https://doi.org/10.22214/ijraset.2022.47109)
@@ -67,6 +83,7 @@ Achieved impressive accuracy in predicting the company's stock price, with a rem
 
 ![Bike Study](/assets/img/braintumordetection.jpg)
 
+---
 
 ## Publications
 1. International Journal for Research in Applied Science and Engineering Technology: Jay Yogesh Thanki, et al., “Brain Tumor Detection Using CNN”, Volume 10 Issue X October 2022.
