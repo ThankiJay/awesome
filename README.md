@@ -1,6 +1,6 @@
 # Data Science
 
-#### Technical Skills: Python, SQL, Tableau, Git, ETL, CI/CD, AWS, Hadoop, Docker, Flask, Spark 
+#### Technical Skills: Python, SQL, Tableau, Git, Selenium, CI/CD, AWS, Hadoop, Docker, Flask, Spark 
 
 ---
 
